@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cum rikrol</title>
+  </head>
+  <body>
+    <input
+      type="text"
+      value="https://milanifi.github.io/cum-hangout.html"
+      id="link"
+    />
+    <button onclick="copy()">copy link</button>
+
+    <script>
+      function copy() {
+        /* Get the text field */
+        var copyText = document.getElementById("link");
+
+        /* Select the text field */
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+        /* Copy the text inside the text field */
+        navigator.clipboard.writeText(copyText.value);
+
+        /* Alert the copied text */
+        alert("link copied");
+      }
+    </script>
+
+    <a href="cum-hangout.html">
+      <button>go to the link</button>
+    </a>
+  </body>
+</html>
