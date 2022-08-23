@@ -2,6 +2,12 @@
 
 ## History
 
+### Full fix
+
+Fixed all bugs.
+
+---
+
 ### Projects page update
 
 The projects page has been optimized for phones.
