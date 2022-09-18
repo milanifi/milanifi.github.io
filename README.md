@@ -2,6 +2,18 @@
 
 ## History
 
+### Scripts image update
+
+Scripts image updated
+
+---
+
+### URL fix
+
+Fixed problems with urls
+
+---
+
 ### Scripts
 
 Added scripts for Roblox.
