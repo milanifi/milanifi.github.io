@@ -1,6 +1,10 @@
-# [Milanifi](https://milanifi.github.io/)
+# Changelog
 
-## History
+### Huge update
+
+[Legacy](https://drive.google.com/uc?id=1ea0mbhkRORlWYrQTcB1UPhSv51UFvKQK) | [Updated](https://drive.google.com/uc?id=1cDAtT5R9IKU2XshPJKEOX7vOCe8Bi-nh)
+
+---
 
 ### Scripts image update
 
@@ -40,7 +44,7 @@ Rickroll link changed from [Google Drive](https://drive.google.com/uc?id=1XCMJ3G
 
 ### [README.md](https://github.com/milanifi/milanifi.github.io/blob/main/README.md) update
 
-Added history.
+Added changelog.
 
 ---
 
