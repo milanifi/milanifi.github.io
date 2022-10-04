@@ -2,7 +2,7 @@
 
 ### Huge update
 
-[Legacy](https://drive.google.com/uc?id=1ea0mbhkRORlWYrQTcB1UPhSv51UFvKQK) | [Updated](https://drive.google.com/uc?id=1cDAtT5R9IKU2XshPJKEOX7vOCe8Bi-nh)
+[Legacy](https://drive.google.com/uc?id=1zmKd3Ta619qwpNB0psbKqSqAM3jszaGb) | [Updated](https://drive.google.com/uc?id=185F5dWS3UaLLaUHIuGol3q9CRBnNCZLH)
 
 ---
 
