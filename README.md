@@ -1,8 +1,14 @@
 # Changelog
 
-### Huge update
+### 2.0
 
-[Legacy](https://drive.google.com/uc?id=1zmKd3Ta619qwpNB0psbKqSqAM3jszaGb) | [Updated](https://drive.google.com/uc?id=185F5dWS3UaLLaUHIuGol3q9CRBnNCZLH)
+[Old](https://drive.google.com/uc?id=185F5dWS3UaLLaUHIuGol3q9CRBnNCZLH) | [New](https://milanifi.github.io)
+
+---
+
+### 1.2
+
+[Old](https://drive.google.com/uc?id=1zmKd3Ta619qwpNB0psbKqSqAM3jszaGb) | [Updated](https://drive.google.com/uc?id=185F5dWS3UaLLaUHIuGol3q9CRBnNCZLH)
 
 ---
 
